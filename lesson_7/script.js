@@ -24,3 +24,4 @@ let arr = ['plum.png','orange.jpeg','apple.bmp']
 //let answer = +prompt("Age > 18?", "Yes!");
 //console.log(typeof(answer));
 //console.log(answer);
+console.log(1);
